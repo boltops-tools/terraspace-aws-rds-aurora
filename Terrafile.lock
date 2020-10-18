@@ -1,0 +1,7 @@
+---
+rds-aurora:
+  source: terraform-aws-modules/rds-aurora/aws
+  stacks: :all
+  type: registry
+  url: https://github.com/terraform-aws-modules/terraform-aws-rds-aurora
+  sha: 3ace6351f594ba75c94e0d4565bd735f967b0ace
